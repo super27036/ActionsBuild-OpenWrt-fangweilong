@@ -1,4 +1,4 @@
-name: Build
+name: Build_R2S_Tesing
 
 on:
   workflow_dispatch:
